@@ -1,0 +1,8 @@
+{
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "files.associations": {
+        "myheatFoam.C": "cpp",
+        "Test-vector.C": "cpp",
+        "messageStream.C": "cpp"
+    },
+}
